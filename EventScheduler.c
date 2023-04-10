@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
-#define MAX INT_MAX //MAX number of integers allowed by C
+#define MAX INT_MAX //MAX number of integers
 
 typedef struct event
 {
